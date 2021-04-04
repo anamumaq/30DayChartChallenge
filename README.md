@@ -11,15 +11,17 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 ## Comparisons
 ### 1. part-to-whole
 
- *Script [aqui](Scripts/Dia 1 - part to whole.R)
+* Script [aqui](Scripts/Dia 1 - part to whole.R)
 ![Day 1](Charts/Day1 - Bonos Covid.png)
 
 ### 2. pictogram
-*Script [aqui](Scripts/Dia 1 - pictogram.R)
+
+* Script [aqui](Scripts/Dia 1 - pictogram.R)
 ![Day 2](Charts/Day2 - Crecimiento y mediana edad.png)
 
 ### 3. historical
-*Script [aqui](Scripts/Dia 3 - historical.R)
+
+* Script [aqui](Scripts/Dia 3 - historical.R)
 ![Day 3](Charts/Day3 - Edad Promedio Paises.png)
 
 ### 4. magical
