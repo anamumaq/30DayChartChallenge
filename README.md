@@ -11,15 +11,15 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 ## Comparisons
 ### 1. part-to-whole
 
- *Script ![aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%201%20%20-%20part%20to%20whole.R)
+ *Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%201%20%20-%20part%20to%20whole.R)
 ![Day 1](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day1%20-%20Bonos%20Covid.png)
 
 ### 2. pictogram
-*Script ![aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%202%20%20-%20pictogram.R)
+*Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%202%20%20-%20pictogram.R)
 ![Day 2](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day2%20-%20Crecimiento%20y%20mediana%20edad.png)
 
 ### 3. historical
-*Script ![aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%203%20%20-%20historical.R)
+*Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%203%20%20-%20historical.R)
 ![Day 3](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day3%20-%20Edad%20Promedio%20Paises.png)
 
 ### 4. magical
