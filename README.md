@@ -25,6 +25,11 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 ![Day 3](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day3%20-%20Edad%20Promedio%20Paises.png)
 
 ### 4. magical
+
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%204%20%20-%20magical.R)
+
+![Day 4](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day4%20-%20HP%20Fairy%20Pokemon.png)
+
 ### 5. slope
 ### 6. experimental 
 ## Distributions
