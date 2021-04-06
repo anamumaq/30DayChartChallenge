@@ -4,7 +4,6 @@ library(ggthemes)
 
 
 url = "Sources/pokemon.csv"
-img = "https://assets.bakker.com/ProductPics/560x676/10028-00-BAKI_20170109094316.jpg"
 df = read.csv(url, sep = ",",encoding="utf8")
 
 

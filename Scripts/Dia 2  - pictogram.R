@@ -3,7 +3,7 @@ library(ggthemes)
 library(dplyr)
 library(emoGG)
 
-url = "Resources/population-growth-rate-vs-median-age.csv"
+url = "Sources/population-growth-rate-vs-median-age.csv"
 df = read.csv(url, sep = ',')
 
 colnames(df)[4] <- "pop_increase"

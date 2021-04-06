@@ -2,7 +2,7 @@ library(ggplot2)
 library(ggthemes)
 library(dplyr)
 
-url = "Resources/population-growth-rate-vs-median-age.csv"
+url = "Sources/population-growth-rate-vs-median-age.csv"
 df = read.csv(url, sep = ',')
 
 colnames(df)[5] <- "median_age"
