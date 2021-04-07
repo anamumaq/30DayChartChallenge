@@ -33,7 +33,7 @@ df_t = df %>% #Filtro candidatos TOP
 newggslopegraph(df_t, Fecha.2, entrev_t, Candidato,
                 Title = "Entrevistas Candidatos Presidenciales en TV",
                 SubTitle = '7 Primeros Candidatos - IPSOS | Entrevistas Acumuladas al 14/03 y 28/03',
-                Caption = '#30dayChartChallenge | Day 5 | @Anamumaq | Resource: GIPE PUCP', 
+                Caption = '#30DayChartChallenge | Day 5 | @Anamumaq | Resource: GIPE PUCP', 
                 XTextSize = 13, YTextSize = 3, LineThickness = 3)
 
 newggslopegraph(df_t, Fecha.2, encuesta, Candidato,
