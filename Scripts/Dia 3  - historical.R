@@ -23,7 +23,7 @@ ggplot(df, aes(x = Year, y = median_age, group = Paises, color = Paises))+
   geom_point()+
   labs(title = "Proyeccion Edad Promedio de Paises Sudamericanos", 
      x = 'Años', y = 'Edad Prom',
-     caption = "#30dayChartChallenge | Day 3 | @Anamumaq | Resource: ourworldindata.org/age-structure")+
+     caption = "#30DayChartChallenge | Day 3 | @Anamumaq | Resource: ourworldindata.org/age-structure")+
   theme_hc(style = 'darkunica')+ # tema escogido
   theme(axis.text.y = element_text(size=10, face = 'bold', color = 'white'),
         axis.text.x = element_text(size=10, face = 'bold', color = 'white'),
