@@ -45,7 +45,19 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 
 ## Distributions
 ### 7. physical
+
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%207%20%20-%20fisical.R)
+
+![Day 7](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day7%20-%20fell%20meteorites.png)
+
+![version Rpubs](https://rpubs.com/anamumaq/meteoritos2000)
+
 ### 8. animals
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%208%20%20-%20animals.R)
+
+![Day 8](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day8%20-%20villagers%20acnh.png)
+
+
 ### 9. statistics
 ### 10. abstract
 ### 11. circular
