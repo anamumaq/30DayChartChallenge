@@ -59,6 +59,11 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 
 
 ### 9. statistics
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%209%20-%20stadistical.ipynb)
+
+![Day 9](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day9%20-%20Heart%20attack%20ages.png)
+
+
 ### 10. abstract
 ### 11. circular
 ### 12. strips
