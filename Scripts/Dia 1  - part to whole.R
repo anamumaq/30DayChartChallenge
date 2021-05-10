@@ -18,7 +18,7 @@ ggplot(df, aes(fill = GENERO, y = FREQ , x = DE_DEPARTAMENTO)) +
   labs(title = "Bonos COVID-19 Otorgados por Genero en Departamentos de Zonas Urbanas", 
        subtitle = "Subsidio monetario de 380 soles para los hogares en condición de pobreza o pobreza extrema",
        x = '', y = '',
-       caption = '#30dayChartChallenge | Day 1 | @Anamumaq | Resource: www.datosabiertos.gob.pe')+
+       caption = '#30DayChartChallenge | Day 1 | @Anamumaq | Resource: www.datosabiertos.gob.pe')+
   geom_hline(yintercept = 0.5, linetype = "dashed", color = "black", size = 1)+
   coord_flip()+
   theme_economist()+ # tema escogido
