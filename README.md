@@ -31,11 +31,39 @@ Mas info en este [repo](https://github.com/Z3tt/30DayChartChallenge_Collection20
 ![Day 4](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day4%20-%20HP%20Fairy%20Pokemon.png)
 
 ### 5. slope
+
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%205%20%20-%20slope.R)
+
+![Day 5](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day5%20-%20Entrevistas%20Presidenciales.png)
+
 ### 6. experimental 
+
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%206%20%20-%20experimental.R)
+
+![Day 6](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day6%20-%20ods%20dimensiones.png)
+![Day 6](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day6%20-%20ods%20ejes.png)
+
 ## Distributions
 ### 7. physical
+
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%207%20%20-%20fisical.R)
+
+![Day 7](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day7%20-%20fell%20meteorites.png)
+
+![version Rpubs](https://rpubs.com/anamumaq/meteoritos2000)
+
 ### 8. animals
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%208%20%20-%20animals.R)
+
+![Day 8](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day8%20-%20villagers%20acnh.png)
+
+
 ### 9. statistics
+* Script [aqui](https://github.com/anamumaq/30DayChartChallenge/blob/main/Scripts/Dia%209%20-%20stadistical.ipynb)
+
+![Day 9](https://github.com/anamumaq/30DayChartChallenge/blob/main/Charts/Day9%20-%20Heart%20attack%20ages.png)
+
+
 ### 10. abstract
 ### 11. circular
 ### 12. strips
